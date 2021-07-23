@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pdfViewer/static/css/main.28d043d0.chunk.css",
+    "main.js": "/pdfViewer/static/js/main.eda4ad98.chunk.js",
+    "main.js.map": "/pdfViewer/static/js/main.eda4ad98.chunk.js.map",
+    "runtime-main.js": "/pdfViewer/static/js/runtime-main.39a8f7fe.js",
+    "runtime-main.js.map": "/pdfViewer/static/js/runtime-main.39a8f7fe.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/pdfViewer/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.4b92310e.chunk.js": "/pdfViewer/static/js/2.4b92310e.chunk.js",
+    "static/js/2.4b92310e.chunk.js.map": "/pdfViewer/static/js/2.4b92310e.chunk.js.map",
+    "static/js/3.c97b2787.chunk.js": "/pdfViewer/static/js/3.c97b2787.chunk.js",
+    "static/js/3.c97b2787.chunk.js.map": "/pdfViewer/static/js/3.c97b2787.chunk.js.map",
+    "index.html": "/pdfViewer/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/pdfViewer/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.28d043d0.chunk.css.map": "/pdfViewer/static/css/main.28d043d0.chunk.css.map",
+    "static/js/2.4b92310e.chunk.js.LICENSE.txt": "/pdfViewer/static/js/2.4b92310e.chunk.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.3d315c83.worker.js": "/pdfViewer/static/js/pdf.worker.entry.3d315c83.worker.js",
+    "static/js/pdf.worker.entry.3d315c83.worker.js.LICENSE.txt": "/pdfViewer/static/js/pdf.worker.entry.3d315c83.worker.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.3d315c83.worker.js.map": "/pdfViewer/static/js/pdf.worker.entry.3d315c83.worker.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39a8f7fe.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.4b92310e.chunk.js",
+    "static/css/main.28d043d0.chunk.css",
+    "static/js/main.eda4ad98.chunk.js"
+  ]
+}
